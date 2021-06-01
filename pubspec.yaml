@@ -13,6 +13,7 @@ dependencies:
   flutter_cache_manager: ^3.0.2
   numberpicker: ^2.1.1
   path_provider: ^2.0.1
+  flutter_gradient_colors: ^2.0.0-prerelease-nullsafety
 
 dev_dependencies:
   lint: ^1.5.3
